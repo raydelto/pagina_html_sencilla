@@ -1,0 +1,16 @@
+.encabezado {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 35px;
+    border-radius: 34px;
+    background-color: #e8e8c0;
+    color: blue;
+}
+
+.cuerpo {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    padding: 15px;
+    background-color: #cece8c;
+    margin-top: 10px;
+}
+
